@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Landing Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Landing Page</h1>
+        <p>Enhance your creativity while ensuring a beautiful design.</p>
+    </header>
+
+    <section class="content">
+        <div class="box">
+            <h2>Why Build a Landing Page?</h2>
+            <p>It allows you to apply your HTML and CSS skills effectively.</p>
+        </div>
+        <div class="box">
+            <h2>Design Elements</h2>
+            <p>Focus on alignments, color palettes, padding, and user-friendly layouts.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Your Website | Designed with creativity!</p>
+    </footer>
+</body>
+</html>
